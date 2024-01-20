@@ -47,7 +47,7 @@ dfn { font-style: italic; }
 h1 { font-size: 2em; margin: 0.67em 0; }
 
 /** Add the correct background and color in IE 9-. */
-mark { background-color: #ff0; color: #000; }
+mark { background-color: #1E1E1E; color: #1E1E1E; }
 
 /** Add the correct font size in all browsers. */
 small { font-size: 80%; }
