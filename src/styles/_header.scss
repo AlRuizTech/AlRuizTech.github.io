@@ -1,5 +1,5 @@
 #particles-js {
-  background: $main;
+  background: #A9A9A9;
   display: flex;
   vertical-align: bottom;
   width: 100%;
@@ -75,11 +75,11 @@
     border: 2px solid #1E1E1E;
     transition: all .7s;
     &:hover {
-      color: $sec;
+      color: #A9A9A9;
       background: #1E1E1E;
     }
     &:active {
-      color: $sec;
+      color: #A9A9A9;
       background: #1E1E1E;
     }
     @media only screen and (min-width:$cut) {
@@ -114,10 +114,10 @@
       -webkit-animation: pulse 1.3s infinite;
       animation: pulse 1.3s infinite;
       &:hover {
-        color: $sec;
+        color: #A9A9A9;
       }
       &:active {
-        color: $sec;
+        color: #A9A9A9;
       }
   }
 }
