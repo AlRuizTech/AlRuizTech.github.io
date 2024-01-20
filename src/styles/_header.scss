@@ -16,7 +16,7 @@
 .header {
   z-index: 1;
   text-align: center;
-  color: #FFF;
+  color: #1E1E1E;
   position: absolute;
   top: 50%;
   width: 90%;
@@ -72,7 +72,7 @@
     padding: 10px;
     margin: 5px;
     border-radius: 50%;
-    border: 2px solid #FFF;
+    border: 2px solid #1E1E1E;
     transition: all .7s;
     &:hover {
       color: $sec;
